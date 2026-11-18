@@ -1,2 +1,3 @@
 # badge-sandbox
-Sandbox for trying out GitHub features
+
+A sandbox for trying out GitHub features.
